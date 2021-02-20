@@ -1,1 +1,16 @@
-This is X's folder for the "patterning" reading group. A place for any kinds of files - personal notes, images, references, etc.
+
+Welcome !
+This is a place for all participants of the Christopher Alexander reading group to upload files -- whether they be notes, images, reference texts, etc. -- for sharing with the group!
+
+How To:
+- please only upload files to your own folder (to keep track of who shared what)
+- everyone can access all folders and files (that's how we share)
+- some file formats will be displayed in a readable form directly on this webpage; such formats include .txt, .md, .pdf, .jpg, .png, ...
+
+
+
+Some further info: 
+
+- the word "repository" that is used on the GitHub webpage can be thought of as just meaning "folder" or "place"
+- 
+
