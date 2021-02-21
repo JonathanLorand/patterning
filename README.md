@@ -12,6 +12,6 @@ How To:
 
 Further/other info: 
 - The word "repository" that is used on the GitHub webpage can be thought of as just meaning "folder" or "place"
-- Some documents (such as .txt files and .md files) can be edited directly in the GitHub webpage (there is a little pencil symbol to enter edit mode). In order to save changes, one needs to scroll down and click the green button labeled with "Commit Changes". 
+- Some documents (such as .txt files and .md files) can be created and/or edited directly in the GitHub webpage (there is a little pencil symbol to enter edit mode). In order to save changes, one needs to scroll down and click the green button labeled with "Commit Changes". 
 
 
