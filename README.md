@@ -7,7 +7,7 @@ How To:
 - please only upload files to the folder with your name on it (so we keep track of who shared what)
 - everyone can access all folders and files (that's how we share)
 - some file formats will be displayed by the GitHub webpage in a readable form directly: such formats include .txt, .md, .pdf, .jpg, .png, ...
-- word files and other proprietary formats cannot be display on this webpage and not everyone might have the software to display such formats on their personal computer, so it is encouraged, whenever possible, to use file formats that are maximally accessible!
+- files in the .docx format of Microsoft Word and various other formats cannot be display on this webpage and not everyone might have the software to display such formats on their personal computer, so it is encouraged, whenever possible, to use file formats that are as accessible as possible!
 
 
 Further/other info: 
