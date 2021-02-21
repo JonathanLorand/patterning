@@ -1,5 +1,6 @@
 
-Welcome !
+# Welcome !
+
 This is a place for all participants of the Christopher Alexander reading group to upload files -- whether they be notes, images, reference texts, etc. -- for sharing with the group!
 
 How To:
