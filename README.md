@@ -8,6 +8,7 @@ How To:
 - everyone can access all folders and files (that's how we share)
 - some file formats will be displayed by the GitHub webpage in a readable form directly: such formats include .txt, .md, .pdf, .jpg, .png, ...
 - files in the .docx format of Microsoft Word and various other formats cannot be display on this webpage and not everyone might have the software to display such formats on their personal computer, so it is encouraged, whenever possible, to use file formats that are as accessible as possible!
+- to upload files, select the "add file" button, then select "upload file" from the drop-down menu. Once the file is uploaded, one needs to scroll down a bit and click the green button labeled with "Commit Changes" for the file to be save to the folder. 
 
 
 Further/other info: 
