@@ -1,0 +1,48 @@
+Notes on a Syntheses of Form
+
+Introduction
+
+There is a need for a rational approach to design, one that does not rely on intuition. This need comes from the increasing economic, cultural, technological complexity within society which makes the designer incapable of relying either on past models, incremental knowledge, nor intuition. To tackle this complexity the designer needs tools for thinking, like in the past men uses machines to extend physical ability, which are set out in this book (and subsequent books). These tools are based on logical structures derived from mathematics. 
+
+Alexander makes a point to state that the act of using logic/rationality in design rather than intuition leads to a loss of innocence, similar to losses of innocence that characterize the dawn of the mechanical age, the Renaissance, etc. It is crucial for the designer not to rely on past forms or traditions, or an artistic individualist mindset in confronting this loss. No return to nostalgia or hiding in the past. Rather one needs to confront it head on, as he writes: “the loss demands attention, not denial”.
+
+Comment/Questions: This call for rationality has had a profound effect of urban planning and architecture and was part of a shift in the profession to use more empirical techniques that root design process in the study of context. It opens up the process of the design of complex systems to a rational, and methodical study.
+
+
+Part One
+
+1. Goodness of Fit
+
+“The ultimate object of design is form”. In order to have clarity of form there must be programmatic clarity, to do this the designer must trace the design problem to its functional origins and identify patterns in them. Every design problem begins with finding a fit between form and context. “Form is the solution to the problem, context defines the problem”. Alexander defines “Good fit is a desired property of this ensemble which relates to some particular division of the ensemble into form and context”. This ensemble could be a number of things, a sonata, a building, a kettle, even culture itself. There are multiple ways to divide an ensemble between form and context. The aim of design is to bring form and context into “frictionless coexistence”.
+
+Beyond simple forms/contexts there is no simple way of evaluating the fit between form and context short of real world prototypes on a trial and error basis. The challenge in the real world is to identify patterns/diagrams of forces whose field we do not fully understand.  
+
+The process of achieving a good fit relies on recognizing abnormalities, moments where a good fit does not occur, a misfit. These are much more recognizable and allows for a more precise adaptation of form to fit context. “Achieving a good fit is a negative process of removing incongruities, irritants, forces that cause misfit”. We can conceptualize these moments as a net or field of misfits. The aim of design is for all these instances in the net of relations between form and context to reach equilibrium, or have no case of misfit. 
+
+Comment/Questions: Is the purpose of design solely about achieving a “good fit”. Is there not a place for more artistic practices of design, or more political. Often with complex form/context ensembles there is not a simple binary determination of fit but it becomes subjective, or political, a “good fit” for who? In this way the designer has to take a stance, or decision that is not based on clear functional justifications. Is there a way to formulate the concept of good fit to enable or aid these type of decisions, criteria.
+
+2. Sources of Good Fit
+
+Most designers working today that achieve clarity of form do so by following a simplified conceptual approach that often seeks to make a statement in one aspect of design but at the expense of human need or other key aspects. In modern society it is almost impossible to find a house which is clearly organized and achieves a good fit between form an context. It is much more comment to find examples of this in traditional, or indigenous societies. Alexander defines these cultures and unselfconscious to differentiate it from our culture as self conscious. 
+
+Unselfconscious culture can be defined as one which makes or builds things without thought of principles, or rules, or written culture, but rather by individuals, through processes communicated from generation to generation that allows forms to evolve over time to fit contexts.
+
+Self conscious culture in comparison relies on written principles and there exists specialisations between designing and building and making. Because of the complexity of the design task rules are abstracted, or simplified so the lose connection to the original function.
+
+Unselfconscious culture produces forms with a better fit not because of a kind of Darwinian evolution but because of the nature of the logic of the field of relationships between form and context. Unselfconscious culture can manipulate sub-systems without disturbing the overall form which is a far quicker way to get a perfect fit than an arbitrary approach of self conscious cultures which try and solve the problem as a whole with abstract rules in a top down process.
+
+
+3. The Unselfconscious Process
+
+Summary of traditional cultures and their building practices from the trullo in Italy, Hebridean huts, Navaho, etc. All have a unity of form, material and function. Adaptations are made slowly and by direct observation of the user ensuring a good fit between the building and function. Traditions ensure practice is passed from one generation to the next with little change. They all have a built in fixity which refuses willful change. 
+
+Unselfconscious culture has a number of advantages: closeness to the ground, uses material close by that the builder has intimate knowledge of and directness, often it is the individual who builds their own house and so the need for abstraction of principles is not there. 
+
+A crucial ingredient for this adaptation is time and a certain viscosity to resist quick change. When faced with the task to invent forms from scratch unselfconscious cultures fail as much as self conscious do. 
+
+4. The Selfconscious Process
+
+
+
+ 
+  
