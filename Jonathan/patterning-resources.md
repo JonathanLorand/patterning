@@ -3,7 +3,6 @@
 
 
 
-
 # Resources
 
 - Article [Connections between UX and Architecture](https://medium.com/@aadaam/connections-between-ux-and-architecture-dd6dc1af4157)
