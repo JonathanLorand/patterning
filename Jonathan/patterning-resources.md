@@ -5,6 +5,7 @@
 
 # Resources
 
+- Group works pattern language project [webpage](https://groupworksdeck.org/)
 - Article [Connections between UX and Architecture](https://medium.com/@aadaam/connections-between-ux-and-architecture-dd6dc1af4157)
 - Article [The Oregon experiment after 20 years](http://www.rainmagazine.com/archive/1991-1/the-oregon-experiment-revisited)
 - Article [Structuralism and a Pattern Language for Online Environments](https://medium.com/swlh/towards-a-larger-view-of-information-architecture-2a7bd6ebafb7)
