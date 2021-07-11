@@ -29,3 +29,6 @@
 
 - Film [Places for the soul](https://vimeo.com/ondemand/placesforthesoul)
 	- "An intimate portrait of Christopher Alexander, a critic of modern architecture on a lifelong quest to build harmonious, livable places in today’s world.The film tells the story of two projects – a spectacular high school in Japan and an innovative homeless shelter in California. For Alexander, feelings come first, users are deeply engaged and process is paramount. We discover what happens when an architect’s unconventional method collides with standard practices in his profession."
+
+
+- https://www.buildingbeauty.org/
